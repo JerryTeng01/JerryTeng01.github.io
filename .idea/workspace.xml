@@ -20,64 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb75ffd6-b6a3-410c-8927-5f141214668f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/css/images/overlay.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/breakpoints.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/browser.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jquery.scrollex.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jquery.scrolly.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/base/_page.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/base/_reset.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/base/_typography.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_actions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_box.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_button.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_features.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_form.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_icon.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_icons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_image.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_list.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_row.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_section.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_spotlight.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_statistics.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_table.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/layout/_footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/layout/_header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/layout/_main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/layout/_nav.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/layout/_wrapper.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/libs/_html-grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/elements.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generic.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/kellermann.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/nyc.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/research.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/skateboard.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/skateboard.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/images/bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/images/ie/footer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/images/ie/footer.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/images/overlay-pattern.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/images/overlay.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/noscript.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/noscript.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_vars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/libs/_vars.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/noscript.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/noscript.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -120,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607217795172</updated>
-      <workItem from="1607217798366" duration="8535000" />
+      <workItem from="1607217798366" duration="9301000" />
     </task>
     <servers />
   </component>
@@ -150,10 +93,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1607217937704" />
-    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607224521227">
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607227536521">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1607224521227" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1607227536521" />
     <state x="479" y="11" width="578" height="801" key="find.popup" timestamp="1607221313190">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
