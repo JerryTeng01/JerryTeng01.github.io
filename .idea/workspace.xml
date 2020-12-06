@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb75ffd6-b6a3-410c-8927-5f141214668f" name="Default Changelist" comment="" />
+    <list default="true" id="fb75ffd6-b6a3-410c-8927-5f141214668f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +63,8 @@
       <option name="presentableId" value="Default" />
       <updated>1607217795172</updated>
       <workItem from="1607217798366" duration="9493000" />
+      <workItem from="1607232697527" duration="14000" />
+      <workItem from="1607232729235" duration="2000" />
     </task>
     <servers />
   </component>
@@ -77,6 +81,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
